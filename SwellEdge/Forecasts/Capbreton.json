@@ -1,0 +1,3466 @@
+{
+    "location": "Capbreton",
+    "coordinates": {
+        "latitude": 43.6667,
+        "longitude": -1.4167
+    },
+    "historical": [],
+    "forecast": [
+        {
+            "timestamp": "2025-07-05T00:00Z",
+            "swells": [
+                {
+                    "height_m": 0.78,
+                    "period_s": 4.7,
+                    "direction_deg": 330
+                },
+                {
+                    "height_m": 0.22,
+                    "period_s": 8.1,
+                    "direction_deg": 107
+                }
+            ],
+            "wind_speed_kn": 4.6,
+            "wind_direction_deg": 250,
+            "water_temperature_C": 24.0
+        },
+        {
+            "timestamp": "2025-07-05T01:00Z",
+            "swells": [
+                {
+                    "height_m": 0.72,
+                    "period_s": 4.95,
+                    "direction_deg": 325
+                },
+                {
+                    "height_m": 0.3,
+                    "period_s": 6.8,
+                    "direction_deg": 126
+                }
+            ],
+            "wind_speed_kn": 4.2,
+            "wind_direction_deg": 236,
+            "water_temperature_C": 23.9
+        },
+        {
+            "timestamp": "2025-07-05T02:00Z",
+            "swells": [
+                {
+                    "height_m": 0.64,
+                    "period_s": 5.35,
+                    "direction_deg": 320
+                },
+                {
+                    "height_m": 0.38,
+                    "period_s": 4.85,
+                    "direction_deg": 146
+                }
+            ],
+            "wind_speed_kn": 3.9,
+            "wind_direction_deg": 250,
+            "water_temperature_C": 23.9
+        },
+        {
+            "timestamp": "2025-07-05T03:00Z",
+            "swells": [
+                {
+                    "height_m": 0.58,
+                    "period_s": 5.55,
+                    "direction_deg": 315
+                },
+                {
+                    "height_m": 0.46,
+                    "period_s": 3.95,
+                    "direction_deg": 165
+                }
+            ],
+            "wind_speed_kn": 7.0,
+            "wind_direction_deg": 236,
+            "water_temperature_C": 23.8
+        },
+        {
+            "timestamp": "2025-07-05T04:00Z",
+            "swells": [
+                {
+                    "height_m": 0.58,
+                    "period_s": 5.35,
+                    "direction_deg": 321
+                },
+                {
+                    "height_m": 0.44,
+                    "period_s": 5.3,
+                    "direction_deg": 154
+                }
+            ],
+            "wind_speed_kn": 2.9,
+            "wind_direction_deg": 262,
+            "water_temperature_C": 23.8
+        },
+        {
+            "timestamp": "2025-07-05T05:00Z",
+            "swells": [
+                {
+                    "height_m": 0.6,
+                    "period_s": 4.9,
+                    "direction_deg": 326
+                },
+                {
+                    "height_m": 0.4,
+                    "period_s": 7.7,
+                    "direction_deg": 143
+                }
+            ],
+            "wind_speed_kn": 1.7,
+            "wind_direction_deg": 291,
+            "water_temperature_C": 23.8
+        },
+        {
+            "timestamp": "2025-07-05T06:00Z",
+            "swells": [
+                {
+                    "height_m": 0.6,
+                    "period_s": 4.6,
+                    "direction_deg": 332
+                },
+                {
+                    "height_m": 0.38,
+                    "period_s": 9.4,
+                    "direction_deg": 132
+                }
+            ],
+            "wind_speed_kn": 1.0,
+            "wind_direction_deg": 158,
+            "water_temperature_C": 23.8
+        },
+        {
+            "timestamp": "2025-07-05T07:00Z",
+            "swells": [
+                {
+                    "height_m": 0.6,
+                    "period_s": 4.4,
+                    "direction_deg": 331
+                },
+                {
+                    "height_m": 0.44,
+                    "period_s": 9.65,
+                    "direction_deg": 133
+                }
+            ],
+            "wind_speed_kn": 3.4,
+            "wind_direction_deg": 211,
+            "water_temperature_C": 23.8
+        },
+        {
+            "timestamp": "2025-07-05T08:00Z",
+            "swells": [
+                {
+                    "height_m": 0.58,
+                    "period_s": 4.35,
+                    "direction_deg": 329
+                },
+                {
+                    "height_m": 0.5,
+                    "period_s": 9.15,
+                    "direction_deg": 133
+                }
+            ],
+            "wind_speed_kn": 8.1,
+            "wind_direction_deg": 226,
+            "water_temperature_C": 23.9
+        },
+        {
+            "timestamp": "2025-07-05T09:00Z",
+            "swells": [
+                {
+                    "height_m": 0.58,
+                    "period_s": 4.7,
+                    "direction_deg": 328
+                },
+                {
+                    "height_m": 0.56,
+                    "period_s": 8.35,
+                    "direction_deg": 134
+                }
+            ],
+            "wind_speed_kn": 6.7,
+            "wind_direction_deg": 234,
+            "water_temperature_C": 24.0
+        },
+        {
+            "timestamp": "2025-07-05T10:00Z",
+            "swells": [
+                {
+                    "height_m": 0.6,
+                    "period_s": 5.9,
+                    "direction_deg": 323
+                },
+                {
+                    "height_m": 0.54,
+                    "period_s": 7.05,
+                    "direction_deg": 139
+                }
+            ],
+            "wind_speed_kn": 5.2,
+            "wind_direction_deg": 257,
+            "water_temperature_C": 24.0
+        },
+        {
+            "timestamp": "2025-07-05T11:00Z",
+            "swells": [
+                {
+                    "height_m": 0.64,
+                    "period_s": 7.55,
+                    "direction_deg": 318
+                },
+                {
+                    "height_m": 0.54,
+                    "period_s": 5.4,
+                    "direction_deg": 144
+                }
+            ],
+            "wind_speed_kn": 7.0,
+            "wind_direction_deg": 242,
+            "water_temperature_C": 24.1
+        },
+        {
+            "timestamp": "2025-07-05T12:00Z",
+            "swells": [
+                {
+                    "height_m": 0.66,
+                    "period_s": 8.7,
+                    "direction_deg": 313
+                },
+                {
+                    "height_m": 0.52,
+                    "period_s": 4.25,
+                    "direction_deg": 149
+                }
+            ],
+            "wind_speed_kn": 8.0,
+            "wind_direction_deg": 247,
+            "water_temperature_C": 24.2
+        },
+        {
+            "timestamp": "2025-07-05T13:00Z",
+            "swells": [
+                {
+                    "height_m": 0.68,
+                    "period_s": 8.9,
+                    "direction_deg": 313
+                },
+                {
+                    "height_m": 0.5,
+                    "period_s": 4.05,
+                    "direction_deg": 149
+                }
+            ],
+            "wind_speed_kn": 7.0,
+            "wind_direction_deg": 257,
+            "water_temperature_C": 24.2
+        },
+        {
+            "timestamp": "2025-07-05T14:00Z",
+            "swells": [
+                {
+                    "height_m": 0.7,
+                    "period_s": 8.65,
+                    "direction_deg": 312
+                },
+                {
+                    "height_m": 0.5,
+                    "period_s": 4.35,
+                    "direction_deg": 149
+                }
+            ],
+            "wind_speed_kn": 6.8,
+            "wind_direction_deg": 275,
+            "water_temperature_C": 24.3
+        },
+        {
+            "timestamp": "2025-07-05T15:00Z",
+            "swells": [
+                {
+                    "height_m": 0.72,
+                    "period_s": 8.4,
+                    "direction_deg": 312
+                },
+                {
+                    "height_m": 0.48,
+                    "period_s": 4.5,
+                    "direction_deg": 149
+                }
+            ],
+            "wind_speed_kn": 8.6,
+            "wind_direction_deg": 306,
+            "water_temperature_C": 24.4
+        },
+        {
+            "timestamp": "2025-07-05T16:00Z",
+            "swells": [
+                {
+                    "height_m": 0.72,
+                    "period_s": 8.3,
+                    "direction_deg": 312
+                },
+                {
+                    "height_m": 0.48,
+                    "period_s": 4.35,
+                    "direction_deg": 150
+                }
+            ],
+            "wind_speed_kn": 7.4,
+            "wind_direction_deg": 319,
+            "water_temperature_C": 24.4
+        },
+        {
+            "timestamp": "2025-07-05T17:00Z",
+            "swells": [
+                {
+                    "height_m": 0.72,
+                    "period_s": 8.2,
+                    "direction_deg": 313
+                },
+                {
+                    "height_m": 0.46,
+                    "period_s": 4.15,
+                    "direction_deg": 151
+                }
+            ],
+            "wind_speed_kn": 7.7,
+            "wind_direction_deg": 324,
+            "water_temperature_C": 24.5
+        },
+        {
+            "timestamp": "2025-07-05T18:00Z",
+            "swells": [
+                {
+                    "height_m": 0.72,
+                    "period_s": 7.95,
+                    "direction_deg": 313
+                },
+                {
+                    "height_m": 0.46,
+                    "period_s": 3.8,
+                    "direction_deg": 152
+                }
+            ],
+            "wind_speed_kn": 7.7,
+            "wind_direction_deg": 324,
+            "water_temperature_C": 24.5
+        },
+        {
+            "timestamp": "2025-07-05T19:00Z",
+            "swells": [
+                {
+                    "height_m": 0.76,
+                    "period_s": 7.4,
+                    "direction_deg": 315
+                },
+                {
+                    "height_m": 0.34,
+                    "period_s": 3.25,
+                    "direction_deg": 125
+                }
+            ],
+            "wind_speed_kn": 6.4,
+            "wind_direction_deg": 325,
+            "water_temperature_C": 24.5
+        },
+        {
+            "timestamp": "2025-07-05T20:00Z",
+            "swells": [
+                {
+                    "height_m": 0.8,
+                    "period_s": 6.65,
+                    "direction_deg": 317
+                },
+                {
+                    "height_m": 0.22,
+                    "period_s": 2.55,
+                    "direction_deg": 99
+                }
+            ],
+            "wind_speed_kn": 4.5,
+            "wind_direction_deg": 317,
+            "water_temperature_C": 24.4
+        },
+        {
+            "timestamp": "2025-07-05T21:00Z",
+            "swells": [
+                {
+                    "height_m": 0.84,
+                    "period_s": 6.25,
+                    "direction_deg": 319
+                },
+                {
+                    "height_m": 0.1,
+                    "period_s": 2.15,
+                    "direction_deg": 72
+                }
+            ],
+            "wind_speed_kn": 4.0,
+            "wind_direction_deg": 305,
+            "water_temperature_C": 24.4
+        },
+        {
+            "timestamp": "2025-07-05T22:00Z",
+            "swells": [
+                {
+                    "height_m": 0.82,
+                    "period_s": 6.35,
+                    "direction_deg": 317
+                },
+                {
+                    "height_m": 0.18,
+                    "period_s": 2.1,
+                    "direction_deg": 98
+                }
+            ],
+            "wind_speed_kn": 4.5,
+            "wind_direction_deg": 295,
+            "water_temperature_C": 24.2
+        },
+        {
+            "timestamp": "2025-07-05T23:00Z",
+            "swells": [
+                {
+                    "height_m": 0.78,
+                    "period_s": 6.7,
+                    "direction_deg": 316
+                },
+                {
+                    "height_m": 0.26,
+                    "period_s": 2.3,
+                    "direction_deg": 125
+                }
+            ],
+            "wind_speed_kn": 6.0,
+            "wind_direction_deg": 308,
+            "water_temperature_C": 24.2
+        },
+        {
+            "timestamp": "2025-07-06T00:00Z",
+            "swells": [
+                {
+                    "height_m": 0.76,
+                    "period_s": 7.1,
+                    "direction_deg": 314
+                },
+                {
+                    "height_m": 0.34,
+                    "period_s": 2.85,
+                    "direction_deg": 151
+                }
+            ],
+            "wind_speed_kn": 3.7,
+            "wind_direction_deg": 309,
+            "water_temperature_C": 24.1
+        },
+        {
+            "timestamp": "2025-07-06T01:00Z",
+            "swells": [
+                {
+                    "height_m": 0.74,
+                    "period_s": 7.4,
+                    "direction_deg": 315
+                },
+                {
+                    "height_m": 0.38,
+                    "period_s": 4.2,
+                    "direction_deg": 143
+                }
+            ],
+            "wind_speed_kn": 1.6,
+            "wind_direction_deg": 277,
+            "water_temperature_C": 24.1
+        },
+        {
+            "timestamp": "2025-07-06T02:00Z",
+            "swells": [
+                {
+                    "height_m": 0.74,
+                    "period_s": 7.7,
+                    "direction_deg": 316
+                },
+                {
+                    "height_m": 0.42,
+                    "period_s": 5.95,
+                    "direction_deg": 134
+                }
+            ],
+            "wind_speed_kn": 4.8,
+            "wind_direction_deg": 291,
+            "water_temperature_C": 24.0
+        },
+        {
+            "timestamp": "2025-07-06T03:00Z",
+            "swells": [
+                {
+                    "height_m": 0.72,
+                    "period_s": 7.95,
+                    "direction_deg": 317
+                },
+                {
+                    "height_m": 0.46,
+                    "period_s": 6.85,
+                    "direction_deg": 126
+                }
+            ],
+            "wind_speed_kn": 4.1,
+            "wind_direction_deg": 301,
+            "water_temperature_C": 24.0
+        },
+        {
+            "timestamp": "2025-07-06T04:00Z",
+            "swells": [
+                {
+                    "height_m": 0.8,
+                    "period_s": 8.1,
+                    "direction_deg": 316
+                },
+                {
+                    "height_m": 0.46,
+                    "period_s": 6.1,
+                    "direction_deg": 133
+                }
+            ],
+            "wind_speed_kn": 4.7,
+            "wind_direction_deg": 289,
+            "water_temperature_C": 24.0
+        },
+        {
+            "timestamp": "2025-07-06T05:00Z",
+            "swells": [
+                {
+                    "height_m": 0.9,
+                    "period_s": 8.25,
+                    "direction_deg": 315
+                },
+                {
+                    "height_m": 0.44,
+                    "period_s": 4.55,
+                    "direction_deg": 141
+                }
+            ],
+            "wind_speed_kn": 7.1,
+            "wind_direction_deg": 287,
+            "water_temperature_C": 23.9
+        },
+        {
+            "timestamp": "2025-07-06T06:00Z",
+            "swells": [
+                {
+                    "height_m": 0.98,
+                    "period_s": 8.3,
+                    "direction_deg": 314
+                },
+                {
+                    "height_m": 0.44,
+                    "period_s": 3.35,
+                    "direction_deg": 148
+                }
+            ],
+            "wind_speed_kn": 6.7,
+            "wind_direction_deg": 278,
+            "water_temperature_C": 23.9
+        },
+        {
+            "timestamp": "2025-07-06T07:00Z",
+            "swells": [
+                {
+                    "height_m": 1.02,
+                    "period_s": 8.35,
+                    "direction_deg": 314
+                },
+                {
+                    "height_m": 0.42,
+                    "period_s": 3.1,
+                    "direction_deg": 149
+                }
+            ],
+            "wind_speed_kn": 6.4,
+            "wind_direction_deg": 275,
+            "water_temperature_C": 23.9
+        },
+        {
+            "timestamp": "2025-07-06T08:00Z",
+            "swells": [
+                {
+                    "height_m": 1.06,
+                    "period_s": 8.35,
+                    "direction_deg": 314
+                },
+                {
+                    "height_m": 0.4,
+                    "period_s": 3.25,
+                    "direction_deg": 150
+                }
+            ],
+            "wind_speed_kn": 7.6,
+            "wind_direction_deg": 273,
+            "water_temperature_C": 24.0
+        },
+        {
+            "timestamp": "2025-07-06T09:00Z",
+            "swells": [
+                {
+                    "height_m": 1.1,
+                    "period_s": 8.3,
+                    "direction_deg": 314
+                },
+                {
+                    "height_m": 0.38,
+                    "period_s": 3.35,
+                    "direction_deg": 151
+                }
+            ],
+            "wind_speed_kn": 8.4,
+            "wind_direction_deg": 274,
+            "water_temperature_C": 24.0
+        },
+        {
+            "timestamp": "2025-07-06T10:00Z",
+            "swells": [
+                {
+                    "height_m": 1.12,
+                    "period_s": 8.15,
+                    "direction_deg": 314
+                },
+                {
+                    "height_m": 0.26,
+                    "period_s": 3.15,
+                    "direction_deg": 141
+                }
+            ],
+            "wind_speed_kn": 9.1,
+            "wind_direction_deg": 270,
+            "water_temperature_C": 24.0
+        },
+        {
+            "timestamp": "2025-07-06T11:00Z",
+            "swells": [
+                {
+                    "height_m": 1.16,
+                    "period_s": 7.95,
+                    "direction_deg": 315
+                },
+                {
+                    "height_m": 0.16,
+                    "period_s": 2.85,
+                    "direction_deg": 130
+                }
+            ],
+            "wind_speed_kn": 9.8,
+            "wind_direction_deg": 264,
+            "water_temperature_C": 24.0
+        },
+        {
+            "timestamp": "2025-07-06T12:00Z",
+            "swells": [
+                {
+                    "height_m": 1.18,
+                    "period_s": 7.8,
+                    "direction_deg": 315
+                },
+                {
+                    "height_m": 0.04,
+                    "period_s": 2.7,
+                    "direction_deg": 120
+                }
+            ],
+            "wind_speed_kn": 10.0,
+            "wind_direction_deg": 264,
+            "water_temperature_C": 24.0
+        },
+        {
+            "timestamp": "2025-07-06T13:00Z",
+            "swells": [
+                {
+                    "height_m": 1.18,
+                    "period_s": 7.85,
+                    "direction_deg": 314
+                },
+                {
+                    "height_m": 0.14,
+                    "period_s": 2.85,
+                    "direction_deg": 130
+                }
+            ],
+            "wind_speed_kn": 11.1,
+            "wind_direction_deg": 269,
+            "water_temperature_C": 24.0
+        },
+        {
+            "timestamp": "2025-07-06T14:00Z",
+            "swells": [
+                {
+                    "height_m": 1.16,
+                    "period_s": 8.05,
+                    "direction_deg": 313
+                },
+                {
+                    "height_m": 0.26,
+                    "period_s": 3.1,
+                    "direction_deg": 140
+                }
+            ],
+            "wind_speed_kn": 11.5,
+            "wind_direction_deg": 268,
+            "water_temperature_C": 24.0
+        },
+        {
+            "timestamp": "2025-07-06T15:00Z",
+            "swells": [
+                {
+                    "height_m": 1.16,
+                    "period_s": 8.05,
+                    "direction_deg": 312
+                },
+                {
+                    "height_m": 0.36,
+                    "period_s": 3.4,
+                    "direction_deg": 150
+                }
+            ],
+            "wind_speed_kn": 11.1,
+            "wind_direction_deg": 264,
+            "water_temperature_C": 24.0
+        },
+        {
+            "timestamp": "2025-07-06T16:00Z",
+            "swells": [
+                {
+                    "height_m": 1.22,
+                    "period_s": 7.8,
+                    "direction_deg": 313
+                },
+                {
+                    "height_m": 0.28,
+                    "period_s": 3.7,
+                    "direction_deg": 127
+                }
+            ],
+            "wind_speed_kn": 11.7,
+            "wind_direction_deg": 273,
+            "water_temperature_C": 23.9
+        },
+        {
+            "timestamp": "2025-07-06T17:00Z",
+            "swells": [
+                {
+                    "height_m": 1.3,
+                    "period_s": 7.4,
+                    "direction_deg": 314
+                },
+                {
+                    "height_m": 0.18,
+                    "period_s": 4.0,
+                    "direction_deg": 105
+                }
+            ],
+            "wind_speed_kn": 11.7,
+            "wind_direction_deg": 269,
+            "water_temperature_C": 23.9
+        },
+        {
+            "timestamp": "2025-07-06T18:00Z",
+            "swells": [
+                {
+                    "height_m": 1.36,
+                    "period_s": 7.05,
+                    "direction_deg": 315
+                },
+                {
+                    "height_m": 0.1,
+                    "period_s": 4.0,
+                    "direction_deg": 82
+                }
+            ],
+            "wind_speed_kn": 13.6,
+            "wind_direction_deg": 281,
+            "water_temperature_C": 23.8
+        },
+        {
+            "timestamp": "2025-07-06T19:00Z",
+            "swells": [
+                {
+                    "height_m": 1.48,
+                    "period_s": 6.8,
+                    "direction_deg": 314
+                },
+                {
+                    "height_m": 0.1,
+                    "period_s": 3.35,
+                    "direction_deg": 67
+                }
+            ],
+            "wind_speed_kn": 11.3,
+            "wind_direction_deg": 274,
+            "water_temperature_C": 23.8
+        },
+        {
+            "timestamp": "2025-07-06T20:00Z",
+            "swells": [
+                {
+                    "height_m": 1.58,
+                    "period_s": 6.6,
+                    "direction_deg": 312
+                },
+                {
+                    "height_m": 0.08,
+                    "period_s": 2.4,
+                    "direction_deg": 53
+                }
+            ],
+            "wind_speed_kn": 11.6,
+            "wind_direction_deg": 290,
+            "water_temperature_C": 23.7
+        },
+        {
+            "timestamp": "2025-07-06T21:00Z",
+            "swells": [
+                {
+                    "height_m": 1.7,
+                    "period_s": 6.45,
+                    "direction_deg": 311
+                },
+                {
+                    "height_m": 0.08,
+                    "period_s": 1.8,
+                    "direction_deg": 38
+                }
+            ],
+            "wind_speed_kn": 8.2,
+            "wind_direction_deg": 288,
+            "water_temperature_C": 23.6
+        },
+        {
+            "timestamp": "2025-07-06T22:00Z",
+            "swells": [
+                {
+                    "height_m": 1.72,
+                    "period_s": 6.45,
+                    "direction_deg": 310
+                },
+                {
+                    "height_m": 0.08,
+                    "period_s": 1.9,
+                    "direction_deg": 89
+                }
+            ],
+            "wind_speed_kn": 9.4,
+            "wind_direction_deg": 294,
+            "water_temperature_C": 23.6
+        },
+        {
+            "timestamp": "2025-07-06T23:00Z",
+            "swells": [
+                {
+                    "height_m": 1.72,
+                    "period_s": 6.55,
+                    "direction_deg": 308
+                },
+                {
+                    "height_m": 0.08,
+                    "period_s": 2.35,
+                    "direction_deg": 140
+                }
+            ],
+            "wind_speed_kn": 8.0,
+            "wind_direction_deg": 311,
+            "water_temperature_C": 23.5
+        },
+        {
+            "timestamp": "2025-07-07T00:00Z",
+            "swells": [
+                {
+                    "height_m": 1.74,
+                    "period_s": 6.65,
+                    "direction_deg": 307
+                },
+                {
+                    "height_m": 0.08,
+                    "period_s": 2.75,
+                    "direction_deg": -169
+                }
+            ],
+            "wind_speed_kn": 8.5,
+            "wind_direction_deg": 307,
+            "water_temperature_C": 23.5
+        },
+        {
+            "timestamp": "2025-07-07T01:00Z",
+            "swells": [
+                {
+                    "height_m": 1.72,
+                    "period_s": 6.7,
+                    "direction_deg": 307
+                },
+                {
+                    "height_m": 0.1,
+                    "period_s": 2.95,
+                    "direction_deg": -169
+                }
+            ],
+            "wind_speed_kn": 9.3,
+            "wind_direction_deg": 331,
+            "water_temperature_C": 23.5
+        },
+        {
+            "timestamp": "2025-07-07T02:00Z",
+            "swells": [
+                {
+                    "height_m": 1.72,
+                    "period_s": 6.8,
+                    "direction_deg": 307
+                },
+                {
+                    "height_m": 0.1,
+                    "period_s": 3.05,
+                    "direction_deg": -168
+                }
+            ],
+            "wind_speed_kn": 9.2,
+            "wind_direction_deg": 319,
+            "water_temperature_C": 23.5
+        },
+        {
+            "timestamp": "2025-07-07T03:00Z",
+            "swells": [
+                {
+                    "height_m": 1.7,
+                    "period_s": 6.8,
+                    "direction_deg": 307
+                },
+                {
+                    "height_m": 0.12,
+                    "period_s": 3.0,
+                    "direction_deg": 192
+                }
+            ],
+            "wind_speed_kn": 9.8,
+            "wind_direction_deg": 325,
+            "water_temperature_C": 23.5
+        },
+        {
+            "timestamp": "2025-07-07T04:00Z",
+            "swells": [
+                {
+                    "height_m": 1.74,
+                    "period_s": 6.7,
+                    "direction_deg": 309
+                },
+                {
+                    "height_m": 0.1,
+                    "period_s": 2.6,
+                    "direction_deg": 146
+                }
+            ],
+            "wind_speed_kn": 11.4,
+            "wind_direction_deg": 314,
+            "water_temperature_C": 23.4
+        },
+        {
+            "timestamp": "2025-07-07T05:00Z",
+            "swells": [
+                {
+                    "height_m": 1.76,
+                    "period_s": 6.6,
+                    "direction_deg": 310
+                },
+                {
+                    "height_m": 0.1,
+                    "period_s": 2.1,
+                    "direction_deg": 99
+                }
+            ],
+            "wind_speed_kn": 10.3,
+            "wind_direction_deg": 306,
+            "water_temperature_C": 23.4
+        },
+        {
+            "timestamp": "2025-07-07T06:00Z",
+            "swells": [
+                {
+                    "height_m": 1.8,
+                    "period_s": 6.55,
+                    "direction_deg": 312
+                },
+                {
+                    "height_m": 0.08,
+                    "period_s": 1.95,
+                    "direction_deg": 53
+                }
+            ],
+            "wind_speed_kn": 10.1,
+            "wind_direction_deg": 308,
+            "water_temperature_C": 23.4
+        },
+        {
+            "timestamp": "2025-07-07T07:00Z",
+            "swells": [
+                {
+                    "height_m": 1.76,
+                    "period_s": 6.65,
+                    "direction_deg": 312
+                },
+                {
+                    "height_m": 0.1,
+                    "period_s": 2.55,
+                    "direction_deg": 61
+                }
+            ],
+            "wind_speed_kn": 12.6,
+            "wind_direction_deg": 307,
+            "water_temperature_C": 23.3
+        },
+        {
+            "timestamp": "2025-07-07T08:00Z",
+            "swells": [
+                {
+                    "height_m": 1.72,
+                    "period_s": 6.8,
+                    "direction_deg": 313
+                },
+                {
+                    "height_m": 0.1,
+                    "period_s": 3.6,
+                    "direction_deg": 70
+                }
+            ],
+            "wind_speed_kn": 11.7,
+            "wind_direction_deg": 298,
+            "water_temperature_C": 23.2
+        },
+        {
+            "timestamp": "2025-07-07T09:00Z",
+            "swells": [
+                {
+                    "height_m": 1.68,
+                    "period_s": 6.95,
+                    "direction_deg": 313
+                },
+                {
+                    "height_m": 0.12,
+                    "period_s": 4.4,
+                    "direction_deg": 78
+                }
+            ],
+            "wind_speed_kn": 12.1,
+            "wind_direction_deg": 305,
+            "water_temperature_C": 23.2
+        },
+        {
+            "timestamp": "2025-07-07T10:00Z",
+            "swells": [
+                {
+                    "height_m": 1.64,
+                    "period_s": 7.05,
+                    "direction_deg": 313
+                },
+                {
+                    "height_m": 0.14,
+                    "period_s": 4.8,
+                    "direction_deg": 82
+                }
+            ],
+            "wind_speed_kn": 13.0,
+            "wind_direction_deg": 302,
+            "water_temperature_C": 23.1
+        },
+        {
+            "timestamp": "2025-07-07T11:00Z",
+            "swells": [
+                {
+                    "height_m": 1.62,
+                    "period_s": 7.1,
+                    "direction_deg": 313
+                },
+                {
+                    "height_m": 0.16,
+                    "period_s": 5.05,
+                    "direction_deg": 86
+                }
+            ],
+            "wind_speed_kn": 13.1,
+            "wind_direction_deg": 316,
+            "water_temperature_C": 23.1
+        },
+        {
+            "timestamp": "2025-07-07T12:00Z",
+            "swells": [
+                {
+                    "height_m": 1.58,
+                    "period_s": 7.15,
+                    "direction_deg": 313
+                },
+                {
+                    "height_m": 0.18,
+                    "period_s": 5.05,
+                    "direction_deg": 90
+                }
+            ],
+            "wind_speed_kn": 13.8,
+            "wind_direction_deg": 298,
+            "water_temperature_C": 23.0
+        },
+        {
+            "timestamp": "2025-07-07T13:00Z",
+            "swells": [
+                {
+                    "height_m": 1.6,
+                    "period_s": 7.15,
+                    "direction_deg": 312
+                },
+                {
+                    "height_m": 0.2,
+                    "period_s": 4.8,
+                    "direction_deg": 83
+                }
+            ],
+            "wind_speed_kn": 12.8,
+            "wind_direction_deg": 311,
+            "water_temperature_C": 23.0
+        },
+        {
+            "timestamp": "2025-07-07T14:00Z",
+            "swells": [
+                {
+                    "height_m": 1.64,
+                    "period_s": 7.05,
+                    "direction_deg": 312
+                },
+                {
+                    "height_m": 0.2,
+                    "period_s": 4.3,
+                    "direction_deg": 76
+                }
+            ],
+            "wind_speed_kn": 11.8,
+            "wind_direction_deg": 314,
+            "water_temperature_C": 23.0
+        },
+        {
+            "timestamp": "2025-07-07T15:00Z",
+            "swells": [
+                {
+                    "height_m": 1.66,
+                    "period_s": 7.0,
+                    "direction_deg": 311
+                },
+                {
+                    "height_m": 0.22,
+                    "period_s": 4.0,
+                    "direction_deg": 69
+                }
+            ],
+            "wind_speed_kn": 11.6,
+            "wind_direction_deg": 310,
+            "water_temperature_C": 23.0
+        },
+        {
+            "timestamp": "2025-07-07T16:00Z",
+            "swells": [
+                {
+                    "height_m": 1.68,
+                    "period_s": 6.95,
+                    "direction_deg": 309
+                },
+                {
+                    "height_m": 0.2,
+                    "period_s": 4.05,
+                    "direction_deg": 110
+                }
+            ],
+            "wind_speed_kn": 11.6,
+            "wind_direction_deg": 319,
+            "water_temperature_C": 23.0
+        },
+        {
+            "timestamp": "2025-07-07T17:00Z",
+            "swells": [
+                {
+                    "height_m": 1.72,
+                    "period_s": 6.9,
+                    "direction_deg": 307
+                },
+                {
+                    "height_m": 0.16,
+                    "period_s": 4.25,
+                    "direction_deg": 150
+                }
+            ],
+            "wind_speed_kn": 12.0,
+            "wind_direction_deg": 326,
+            "water_temperature_C": 23.0
+        },
+        {
+            "timestamp": "2025-07-07T18:00Z",
+            "swells": [
+                {
+                    "height_m": 1.74,
+                    "period_s": 6.8,
+                    "direction_deg": 305
+                },
+                {
+                    "height_m": 0.14,
+                    "period_s": 4.25,
+                    "direction_deg": -169
+                }
+            ],
+            "wind_speed_kn": 11.0,
+            "wind_direction_deg": 333,
+            "water_temperature_C": 23.0
+        },
+        {
+            "timestamp": "2025-07-07T19:00Z",
+            "swells": [
+                {
+                    "height_m": 1.8,
+                    "period_s": 6.7,
+                    "direction_deg": 306
+                },
+                {
+                    "height_m": 0.14,
+                    "period_s": 3.9,
+                    "direction_deg": -168
+                }
+            ],
+            "wind_speed_kn": 9.4,
+            "wind_direction_deg": 326,
+            "water_temperature_C": 23.0
+        },
+        {
+            "timestamp": "2025-07-07T20:00Z",
+            "swells": [
+                {
+                    "height_m": 1.86,
+                    "period_s": 6.55,
+                    "direction_deg": 308
+                },
+                {
+                    "height_m": 0.12,
+                    "period_s": 3.3,
+                    "direction_deg": -168
+                }
+            ],
+            "wind_speed_kn": 7.8,
+            "wind_direction_deg": 337,
+            "water_temperature_C": 23.0
+        },
+        {
+            "timestamp": "2025-07-07T21:00Z",
+            "swells": [
+                {
+                    "height_m": 1.92,
+                    "period_s": 6.45,
+                    "direction_deg": 309
+                },
+                {
+                    "height_m": 0.12,
+                    "period_s": 2.7,
+                    "direction_deg": -167
+                }
+            ],
+            "wind_speed_kn": 7.4,
+            "wind_direction_deg": 348,
+            "water_temperature_C": 23.0
+        },
+        {
+            "timestamp": "2025-07-07T22:00Z",
+            "swells": [
+                {
+                    "height_m": 1.92,
+                    "period_s": 6.35,
+                    "direction_deg": 310
+                },
+                {
+                    "height_m": 0.08,
+                    "period_s": 1.8,
+                    "direction_deg": -111
+                }
+            ],
+            "wind_speed_kn": 7.6,
+            "wind_direction_deg": 342,
+            "water_temperature_C": 23.0
+        },
+        {
+            "timestamp": "2025-07-07T23:00Z",
+            "swells": [
+                {
+                    "height_m": 1.92,
+                    "period_s": 6.3,
+                    "direction_deg": 312
+                },
+                {
+                    "height_m": 0.04,
+                    "period_s": 0.9,
+                    "direction_deg": -56
+                }
+            ],
+            "wind_speed_kn": 6.2,
+            "wind_direction_deg": 340,
+            "water_temperature_C": 23.0
+        },
+        {
+            "timestamp": "2025-07-08T00:00Z",
+            "swells": [
+                {
+                    "height_m": 1.92,
+                    "period_s": 6.3,
+                    "direction_deg": 313
+                },
+                {
+                    "height_m": 0.0,
+                    "period_s": 0.85,
+                    "direction_deg": 0
+                }
+            ],
+            "wind_speed_kn": 3.8,
+            "wind_direction_deg": 30,
+            "water_temperature_C": 23.0
+        },
+        {
+            "timestamp": "2025-07-08T01:00Z",
+            "swells": [
+                {
+                    "height_m": 1.88,
+                    "period_s": 6.35,
+                    "direction_deg": 313
+                },
+                {
+                    "height_m": 0.0,
+                    "period_s": 2.15,
+                    "direction_deg": -5
+                }
+            ],
+            "wind_speed_kn": 1.8,
+            "wind_direction_deg": 96,
+            "water_temperature_C": 23.0
+        },
+        {
+            "timestamp": "2025-07-08T02:00Z",
+            "swells": [
+                {
+                    "height_m": 1.86,
+                    "period_s": 6.4,
+                    "direction_deg": 313
+                },
+                {
+                    "height_m": 0.0,
+                    "period_s": 4.35,
+                    "direction_deg": -9
+                }
+            ],
+            "wind_speed_kn": 2.2,
+            "wind_direction_deg": 128,
+            "water_temperature_C": 23.0
+        },
+        {
+            "timestamp": "2025-07-08T03:00Z",
+            "swells": [
+                {
+                    "height_m": 1.82,
+                    "period_s": 6.45,
+                    "direction_deg": 313
+                },
+                {
+                    "height_m": 0.0,
+                    "period_s": 6.8,
+                    "direction_deg": -14
+                }
+            ],
+            "wind_speed_kn": 2.4,
+            "wind_direction_deg": 99,
+            "water_temperature_C": 22.9
+        },
+        {
+            "timestamp": "2025-07-08T04:00Z",
+            "swells": [
+                {
+                    "height_m": 1.8,
+                    "period_s": 6.5,
+                    "direction_deg": 313
+                },
+                {
+                    "height_m": 0.0,
+                    "period_s": 10.05,
+                    "direction_deg": -8
+                }
+            ],
+            "wind_speed_kn": 2.3,
+            "wind_direction_deg": 132,
+            "water_temperature_C": 22.9
+        },
+        {
+            "timestamp": "2025-07-08T05:00Z",
+            "swells": [
+                {
+                    "height_m": 1.76,
+                    "period_s": 6.55,
+                    "direction_deg": 313
+                },
+                {
+                    "height_m": 0.0,
+                    "period_s": 13.55,
+                    "direction_deg": -1
+                }
+            ],
+            "wind_speed_kn": 2.3,
+            "wind_direction_deg": 132,
+            "water_temperature_C": 22.9
+        },
+        {
+            "timestamp": "2025-07-08T06:00Z",
+            "swells": [
+                {
+                    "height_m": 1.74,
+                    "period_s": 6.6,
+                    "direction_deg": 313
+                },
+                {
+                    "height_m": 0.0,
+                    "period_s": 14.95,
+                    "direction_deg": 5
+                }
+            ],
+            "wind_speed_kn": 3.9,
+            "wind_direction_deg": 162,
+            "water_temperature_C": 22.9
+        },
+        {
+            "timestamp": "2025-07-08T07:00Z",
+            "swells": [
+                {
+                    "height_m": 1.7,
+                    "period_s": 6.65,
+                    "direction_deg": 313
+                },
+                {
+                    "height_m": 0.0,
+                    "period_s": 12.4,
+                    "direction_deg": 2
+                }
+            ],
+            "wind_speed_kn": 3.2,
+            "wind_direction_deg": 155,
+            "water_temperature_C": 22.9
+        },
+        {
+            "timestamp": "2025-07-08T08:00Z",
+            "swells": [
+                {
+                    "height_m": 1.68,
+                    "period_s": 6.65,
+                    "direction_deg": 313
+                },
+                {
+                    "height_m": 0.0,
+                    "period_s": 7.7,
+                    "direction_deg": -2
+                }
+            ],
+            "wind_speed_kn": 3.1,
+            "wind_direction_deg": 125,
+            "water_temperature_C": 22.9
+        },
+        {
+            "timestamp": "2025-07-08T09:00Z",
+            "swells": [
+                {
+                    "height_m": 1.64,
+                    "period_s": 6.65,
+                    "direction_deg": 313
+                },
+                {
+                    "height_m": 0.0,
+                    "period_s": 3.9,
+                    "direction_deg": -5
+                }
+            ],
+            "wind_speed_kn": 1.9,
+            "wind_direction_deg": 66,
+            "water_temperature_C": 22.9
+        },
+        {
+            "timestamp": "2025-07-08T10:00Z",
+            "swells": [
+                {
+                    "height_m": 1.6,
+                    "period_s": 6.65,
+                    "direction_deg": 313
+                },
+                {
+                    "height_m": 0.0,
+                    "period_s": 2.15,
+                    "direction_deg": -3
+                }
+            ],
+            "wind_speed_kn": 5.5,
+            "wind_direction_deg": 309,
+            "water_temperature_C": 22.9
+        },
+        {
+            "timestamp": "2025-07-08T11:00Z",
+            "swells": [
+                {
+                    "height_m": 1.56,
+                    "period_s": 6.65,
+                    "direction_deg": 313
+                },
+                {
+                    "height_m": 0.0,
+                    "period_s": 1.3,
+                    "direction_deg": -2
+                }
+            ],
+            "wind_speed_kn": 7.4,
+            "wind_direction_deg": 315,
+            "water_temperature_C": 23.0
+        },
+        {
+            "timestamp": "2025-07-08T12:00Z",
+            "swells": [
+                {
+                    "height_m": 1.52,
+                    "period_s": 6.65,
+                    "direction_deg": 313
+                },
+                {
+                    "height_m": 0.0,
+                    "period_s": 1.0,
+                    "direction_deg": 0
+                }
+            ],
+            "wind_speed_kn": 8.6,
+            "wind_direction_deg": 322,
+            "water_temperature_C": 23.0
+        },
+        {
+            "timestamp": "2025-07-08T13:00Z",
+            "swells": [
+                {
+                    "height_m": 1.46,
+                    "period_s": 6.65,
+                    "direction_deg": 312
+                },
+                {
+                    "height_m": 0.02,
+                    "period_s": 1.35,
+                    "direction_deg": -57
+                }
+            ],
+            "wind_speed_kn": 10.3,
+            "wind_direction_deg": 332,
+            "water_temperature_C": 23.0
+        },
+        {
+            "timestamp": "2025-07-08T14:00Z",
+            "swells": [
+                {
+                    "height_m": 1.42,
+                    "period_s": 6.65,
+                    "direction_deg": 312
+                },
+                {
+                    "height_m": 0.02,
+                    "period_s": 2.3,
+                    "direction_deg": -113
+                }
+            ],
+            "wind_speed_kn": 10.4,
+            "wind_direction_deg": 336,
+            "water_temperature_C": 23.0
+        },
+        {
+            "timestamp": "2025-07-08T15:00Z",
+            "swells": [
+                {
+                    "height_m": 1.36,
+                    "period_s": 6.65,
+                    "direction_deg": 311
+                },
+                {
+                    "height_m": 0.04,
+                    "period_s": 3.2,
+                    "direction_deg": -170
+                }
+            ],
+            "wind_speed_kn": 10.8,
+            "wind_direction_deg": 340,
+            "water_temperature_C": 23.0
+        },
+        {
+            "timestamp": "2025-07-08T16:00Z",
+            "swells": [
+                {
+                    "height_m": 1.3,
+                    "period_s": 6.6,
+                    "direction_deg": 311
+                },
+                {
+                    "height_m": 0.1,
+                    "period_s": 4.05,
+                    "direction_deg": -163
+                }
+            ],
+            "wind_speed_kn": 11.3,
+            "wind_direction_deg": 345,
+            "water_temperature_C": 23.0
+        },
+        {
+            "timestamp": "2025-07-08T17:00Z",
+            "swells": [
+                {
+                    "height_m": 1.24,
+                    "period_s": 6.45,
+                    "direction_deg": 311
+                },
+                {
+                    "height_m": 0.14,
+                    "period_s": 4.85,
+                    "direction_deg": -155
+                }
+            ],
+            "wind_speed_kn": 10.9,
+            "wind_direction_deg": 349,
+            "water_temperature_C": 23.0
+        },
+        {
+            "timestamp": "2025-07-08T18:00Z",
+            "swells": [
+                {
+                    "height_m": 1.18,
+                    "period_s": 6.35,
+                    "direction_deg": 311
+                },
+                {
+                    "height_m": 0.2,
+                    "period_s": 5.3,
+                    "direction_deg": -148
+                }
+            ],
+            "wind_speed_kn": 9.8,
+            "wind_direction_deg": 353,
+            "water_temperature_C": 23.0
+        },
+        {
+            "timestamp": "2025-07-08T19:00Z",
+            "swells": [
+                {
+                    "height_m": 1.18,
+                    "period_s": 6.2,
+                    "direction_deg": 313
+                },
+                {
+                    "height_m": 0.14,
+                    "period_s": 4.65,
+                    "direction_deg": -143
+                }
+            ],
+            "wind_speed_kn": 7.8,
+            "wind_direction_deg": 359,
+            "water_temperature_C": 22.9
+        },
+        {
+            "timestamp": "2025-07-08T20:00Z",
+            "swells": [
+                {
+                    "height_m": 1.2,
+                    "period_s": 6.1,
+                    "direction_deg": 314
+                },
+                {
+                    "height_m": 0.1,
+                    "period_s": 3.6,
+                    "direction_deg": -137
+                }
+            ],
+            "wind_speed_kn": 4.7,
+            "wind_direction_deg": 2,
+            "water_temperature_C": 22.9
+        },
+        {
+            "timestamp": "2025-07-08T21:00Z",
+            "swells": [
+                {
+                    "height_m": 1.2,
+                    "period_s": 5.95,
+                    "direction_deg": 316
+                },
+                {
+                    "height_m": 0.04,
+                    "period_s": 3.85,
+                    "direction_deg": 228
+                }
+            ],
+            "wind_speed_kn": 2.8,
+            "wind_direction_deg": 344,
+            "water_temperature_C": 22.8
+        },
+        {
+            "timestamp": "2025-07-08T22:00Z",
+            "swells": [
+                {
+                    "height_m": 1.18,
+                    "period_s": 5.85,
+                    "direction_deg": 317
+                },
+                {
+                    "height_m": 0.04,
+                    "period_s": 6.75,
+                    "direction_deg": 188
+                }
+            ],
+            "wind_speed_kn": 7.2,
+            "wind_direction_deg": 43,
+            "water_temperature_C": 22.8
+        },
+        {
+            "timestamp": "2025-07-08T23:00Z",
+            "swells": [
+                {
+                    "height_m": 1.14,
+                    "period_s": 5.7,
+                    "direction_deg": 318
+                },
+                {
+                    "height_m": 0.02,
+                    "period_s": 10.95,
+                    "direction_deg": 149
+                }
+            ],
+            "wind_speed_kn": 6.5,
+            "wind_direction_deg": 69,
+            "water_temperature_C": 22.7
+        },
+        {
+            "timestamp": "2025-07-09T00:00Z",
+            "swells": [
+                {
+                    "height_m": 1.12,
+                    "period_s": 5.65,
+                    "direction_deg": 319
+                },
+                {
+                    "height_m": 0.02,
+                    "period_s": 14.2,
+                    "direction_deg": 109
+                }
+            ],
+            "wind_speed_kn": 7.0,
+            "wind_direction_deg": 63,
+            "water_temperature_C": 22.6
+        },
+        {
+            "timestamp": "2025-07-09T01:00Z",
+            "swells": [
+                {
+                    "height_m": 1.08,
+                    "period_s": 5.65,
+                    "direction_deg": 318
+                },
+                {
+                    "height_m": 0.02,
+                    "period_s": 15.5,
+                    "direction_deg": 110
+                }
+            ],
+            "wind_speed_kn": 7.3,
+            "wind_direction_deg": 70,
+            "water_temperature_C": 22.6
+        },
+        {
+            "timestamp": "2025-07-09T02:00Z",
+            "swells": [
+                {
+                    "height_m": 1.02,
+                    "period_s": 5.65,
+                    "direction_deg": 318
+                },
+                {
+                    "height_m": 0.02,
+                    "period_s": 15.85,
+                    "direction_deg": 111
+                }
+            ],
+            "wind_speed_kn": 7.8,
+            "wind_direction_deg": 71,
+            "water_temperature_C": 22.5
+        },
+        {
+            "timestamp": "2025-07-09T03:00Z",
+            "swells": [
+                {
+                    "height_m": 0.98,
+                    "period_s": 5.65,
+                    "direction_deg": 317
+                },
+                {
+                    "height_m": 0.02,
+                    "period_s": 15.75,
+                    "direction_deg": 112
+                }
+            ],
+            "wind_speed_kn": 7.5,
+            "wind_direction_deg": 78,
+            "water_temperature_C": 22.5
+        },
+        {
+            "timestamp": "2025-07-09T04:00Z",
+            "swells": [
+                {
+                    "height_m": 0.94,
+                    "period_s": 5.6,
+                    "direction_deg": 317
+                },
+                {
+                    "height_m": 0.02,
+                    "period_s": 15.4,
+                    "direction_deg": 111
+                }
+            ],
+            "wind_speed_kn": 7.5,
+            "wind_direction_deg": 83,
+            "water_temperature_C": 22.5
+        },
+        {
+            "timestamp": "2025-07-09T05:00Z",
+            "swells": [
+                {
+                    "height_m": 0.92,
+                    "period_s": 5.6,
+                    "direction_deg": 316
+                },
+                {
+                    "height_m": 0.04,
+                    "period_s": 14.6,
+                    "direction_deg": 111
+                }
+            ],
+            "wind_speed_kn": 7.8,
+            "wind_direction_deg": 83,
+            "water_temperature_C": 22.5
+        },
+        {
+            "timestamp": "2025-07-09T06:00Z",
+            "swells": [
+                {
+                    "height_m": 0.88,
+                    "period_s": 5.65,
+                    "direction_deg": 316
+                },
+                {
+                    "height_m": 0.04,
+                    "period_s": 13.25,
+                    "direction_deg": 110
+                }
+            ],
+            "wind_speed_kn": 8.2,
+            "wind_direction_deg": 90,
+            "water_temperature_C": 22.5
+        },
+        {
+            "timestamp": "2025-07-09T07:00Z",
+            "swells": [
+                {
+                    "height_m": 0.78,
+                    "period_s": 5.95,
+                    "direction_deg": 313
+                },
+                {
+                    "height_m": 0.18,
+                    "period_s": 10.55,
+                    "direction_deg": 119
+                }
+            ],
+            "wind_speed_kn": 7.8,
+            "wind_direction_deg": 97,
+            "water_temperature_C": 22.5
+        },
+        {
+            "timestamp": "2025-07-09T08:00Z",
+            "swells": [
+                {
+                    "height_m": 0.68,
+                    "period_s": 6.3,
+                    "direction_deg": 310
+                },
+                {
+                    "height_m": 0.32,
+                    "period_s": 7.25,
+                    "direction_deg": 128
+                }
+            ],
+            "wind_speed_kn": 7.3,
+            "wind_direction_deg": 99,
+            "water_temperature_C": 22.5
+        },
+        {
+            "timestamp": "2025-07-09T09:00Z",
+            "swells": [
+                {
+                    "height_m": 0.58,
+                    "period_s": 6.5,
+                    "direction_deg": 307
+                },
+                {
+                    "height_m": 0.46,
+                    "period_s": 5.6,
+                    "direction_deg": 137
+                }
+            ],
+            "wind_speed_kn": 7.4,
+            "wind_direction_deg": 93,
+            "water_temperature_C": 22.6
+        },
+        {
+            "timestamp": "2025-07-09T10:00Z",
+            "swells": [
+                {
+                    "height_m": 0.62,
+                    "period_s": 6.3,
+                    "direction_deg": 310
+                },
+                {
+                    "height_m": 0.32,
+                    "period_s": 7.4,
+                    "direction_deg": 128
+                }
+            ],
+            "wind_speed_kn": 8.6,
+            "wind_direction_deg": 90,
+            "water_temperature_C": 22.7
+        },
+        {
+            "timestamp": "2025-07-09T11:00Z",
+            "swells": [
+                {
+                    "height_m": 0.68,
+                    "period_s": 5.9,
+                    "direction_deg": 313
+                },
+                {
+                    "height_m": 0.18,
+                    "period_s": 10.85,
+                    "direction_deg": 119
+                }
+            ],
+            "wind_speed_kn": 8.9,
+            "wind_direction_deg": 81,
+            "water_temperature_C": 22.8
+        },
+        {
+            "timestamp": "2025-07-09T12:00Z",
+            "swells": [
+                {
+                    "height_m": 0.72,
+                    "period_s": 5.6,
+                    "direction_deg": 316
+                },
+                {
+                    "height_m": 0.04,
+                    "period_s": 12.6,
+                    "direction_deg": 110
+                }
+            ],
+            "wind_speed_kn": 9.2,
+            "wind_direction_deg": 82,
+            "water_temperature_C": 22.8
+        },
+        {
+            "timestamp": "2025-07-09T13:00Z",
+            "swells": [
+                {
+                    "height_m": 0.7,
+                    "period_s": 5.55,
+                    "direction_deg": 315
+                },
+                {
+                    "height_m": 0.04,
+                    "period_s": 10.65,
+                    "direction_deg": 134
+                }
+            ],
+            "wind_speed_kn": 8.9,
+            "wind_direction_deg": 81,
+            "water_temperature_C": 22.8
+        },
+        {
+            "timestamp": "2025-07-09T14:00Z",
+            "swells": [
+                {
+                    "height_m": 0.66,
+                    "period_s": 5.55,
+                    "direction_deg": 315
+                },
+                {
+                    "height_m": 0.04,
+                    "period_s": 7.0,
+                    "direction_deg": 157
+                }
+            ],
+            "wind_speed_kn": 8.9,
+            "wind_direction_deg": 360,
+            "water_temperature_C": 22.8
+        },
+        {
+            "timestamp": "2025-07-09T15:00Z",
+            "swells": [
+                {
+                    "height_m": 0.64,
+                    "period_s": 5.65,
+                    "direction_deg": 314
+                },
+                {
+                    "height_m": 0.04,
+                    "period_s": 4.2,
+                    "direction_deg": 181
+                }
+            ],
+            "wind_speed_kn": 16.0,
+            "wind_direction_deg": 356,
+            "water_temperature_C": 22.8
+        },
+        {
+            "timestamp": "2025-07-09T16:00Z",
+            "swells": [
+                {
+                    "height_m": 0.6,
+                    "period_s": 5.85,
+                    "direction_deg": 313
+                },
+                {
+                    "height_m": 0.16,
+                    "period_s": 3.3,
+                    "direction_deg": 168
+                }
+            ],
+            "wind_speed_kn": 17.9,
+            "wind_direction_deg": 358,
+            "water_temperature_C": 22.8
+        },
+        {
+            "timestamp": "2025-07-09T17:00Z",
+            "swells": [
+                {
+                    "height_m": 0.56,
+                    "period_s": 6.15,
+                    "direction_deg": 313
+                },
+                {
+                    "height_m": 0.26,
+                    "period_s": 3.3,
+                    "direction_deg": 154
+                }
+            ],
+            "wind_speed_kn": 16.7,
+            "wind_direction_deg": 1,
+            "water_temperature_C": 22.8
+        },
+        {
+            "timestamp": "2025-07-09T18:00Z",
+            "swells": [
+                {
+                    "height_m": 0.52,
+                    "period_s": 6.1,
+                    "direction_deg": 312
+                },
+                {
+                    "height_m": 0.38,
+                    "period_s": 3.6,
+                    "direction_deg": 141
+                }
+            ],
+            "wind_speed_kn": 14.6,
+            "wind_direction_deg": 5,
+            "water_temperature_C": 22.8
+        },
+        {
+            "timestamp": "2025-07-09T19:00Z",
+            "swells": [
+                {
+                    "height_m": 0.56,
+                    "period_s": 5.45,
+                    "direction_deg": 320
+                },
+                {
+                    "height_m": 0.4,
+                    "period_s": 4.3,
+                    "direction_deg": 138
+                }
+            ],
+            "wind_speed_kn": 9.8,
+            "wind_direction_deg": 8,
+            "water_temperature_C": 22.8
+        },
+        {
+            "timestamp": "2025-07-09T20:00Z",
+            "swells": [
+                {
+                    "height_m": 0.58,
+                    "period_s": 4.45,
+                    "direction_deg": 329
+                },
+                {
+                    "height_m": 0.44,
+                    "period_s": 5.4,
+                    "direction_deg": 134
+                }
+            ],
+            "wind_speed_kn": 5.2,
+            "wind_direction_deg": 20,
+            "water_temperature_C": 22.8
+        },
+        {
+            "timestamp": "2025-07-09T21:00Z",
+            "swells": [
+                {
+                    "height_m": 0.62,
+                    "period_s": 3.75,
+                    "direction_deg": 337
+                },
+                {
+                    "height_m": 0.46,
+                    "period_s": 6.15,
+                    "direction_deg": 131
+                }
+            ],
+            "wind_speed_kn": 5.0,
+            "wind_direction_deg": 48,
+            "water_temperature_C": 22.8
+        },
+        {
+            "timestamp": "2025-07-09T22:00Z",
+            "swells": [
+                {
+                    "height_m": 0.64,
+                    "period_s": 3.55,
+                    "direction_deg": 337
+                },
+                {
+                    "height_m": 0.44,
+                    "period_s": 6.3,
+                    "direction_deg": 130
+                }
+            ],
+            "wind_speed_kn": 5.6,
+            "wind_direction_deg": 61,
+            "water_temperature_C": 22.8
+        },
+        {
+            "timestamp": "2025-07-09T23:00Z",
+            "swells": [
+                {
+                    "height_m": 0.64,
+                    "period_s": 3.65,
+                    "direction_deg": 338
+                },
+                {
+                    "height_m": 0.44,
+                    "period_s": 6.2,
+                    "direction_deg": 130
+                }
+            ],
+            "wind_speed_kn": 5.6,
+            "wind_direction_deg": 61,
+            "water_temperature_C": 22.8
+        },
+        {
+            "timestamp": "2025-07-10T00:00Z",
+            "swells": [
+                {
+                    "height_m": 0.66,
+                    "period_s": 3.75,
+                    "direction_deg": 338
+                },
+                {
+                    "height_m": 0.42,
+                    "period_s": 6.1,
+                    "direction_deg": 129
+                }
+            ],
+            "wind_speed_kn": 6.9,
+            "wind_direction_deg": 68,
+            "water_temperature_C": 22.8
+        },
+        {
+            "timestamp": "2025-07-10T01:00Z",
+            "swells": [
+                {
+                    "height_m": 0.64,
+                    "period_s": 3.75,
+                    "direction_deg": 338
+                },
+                {
+                    "height_m": 0.4,
+                    "period_s": 6.1,
+                    "direction_deg": 129
+                }
+            ],
+            "wind_speed_kn": 5.9,
+            "wind_direction_deg": 82,
+            "water_temperature_C": 22.7
+        },
+        {
+            "timestamp": "2025-07-10T02:00Z",
+            "swells": [
+                {
+                    "height_m": 0.64,
+                    "period_s": 3.8,
+                    "direction_deg": 338
+                },
+                {
+                    "height_m": 0.4,
+                    "period_s": 6.1,
+                    "direction_deg": 128
+                }
+            ],
+            "wind_speed_kn": 5.4,
+            "wind_direction_deg": 90,
+            "water_temperature_C": 22.6
+        },
+        {
+            "timestamp": "2025-07-10T03:00Z",
+            "swells": [
+                {
+                    "height_m": 0.62,
+                    "period_s": 3.85,
+                    "direction_deg": 338
+                },
+                {
+                    "height_m": 0.38,
+                    "period_s": 6.1,
+                    "direction_deg": 128
+                }
+            ],
+            "wind_speed_kn": 4.3,
+            "wind_direction_deg": 93,
+            "water_temperature_C": 22.6
+        },
+        {
+            "timestamp": "2025-07-10T04:00Z",
+            "swells": [
+                {
+                    "height_m": 0.54,
+                    "period_s": 3.95,
+                    "direction_deg": 333
+                },
+                {
+                    "height_m": 0.38,
+                    "period_s": 6.15,
+                    "direction_deg": 128
+                }
+            ],
+            "wind_speed_kn": 4.1,
+            "wind_direction_deg": 95,
+            "water_temperature_C": 22.5
+        },
+        {
+            "timestamp": "2025-07-10T05:00Z",
+            "swells": [
+                {
+                    "height_m": 0.48,
+                    "period_s": 4.1,
+                    "direction_deg": 328
+                },
+                {
+                    "height_m": 0.36,
+                    "period_s": 6.2,
+                    "direction_deg": 128
+                }
+            ],
+            "wind_speed_kn": 5.9,
+            "wind_direction_deg": 84,
+            "water_temperature_C": 22.5
+        },
+        {
+            "timestamp": "2025-07-10T06:00Z",
+            "swells": [
+                {
+                    "height_m": 0.4,
+                    "period_s": 4.2,
+                    "direction_deg": 323
+                },
+                {
+                    "height_m": 0.36,
+                    "period_s": 6.15,
+                    "direction_deg": 128
+                }
+            ],
+            "wind_speed_kn": 7.0,
+            "wind_direction_deg": 87,
+            "water_temperature_C": 22.5
+        },
+        {
+            "timestamp": "2025-07-10T07:00Z",
+            "swells": [
+                {
+                    "height_m": 0.42,
+                    "period_s": 4.2,
+                    "direction_deg": 328
+                },
+                {
+                    "height_m": 0.36,
+                    "period_s": 5.85,
+                    "direction_deg": 129
+                }
+            ],
+            "wind_speed_kn": 8.4,
+            "wind_direction_deg": 91,
+            "water_temperature_C": 22.5
+        },
+        {
+            "timestamp": "2025-07-10T08:00Z",
+            "swells": [
+                {
+                    "height_m": 0.42,
+                    "period_s": 4.2,
+                    "direction_deg": 332
+                },
+                {
+                    "height_m": 0.34,
+                    "period_s": 5.45,
+                    "direction_deg": 129
+                }
+            ],
+            "wind_speed_kn": 7.6,
+            "wind_direction_deg": 96,
+            "water_temperature_C": 22.5
+        },
+        {
+            "timestamp": "2025-07-10T09:00Z",
+            "swells": [
+                {
+                    "height_m": 0.44,
+                    "period_s": 4.25,
+                    "direction_deg": 337
+                },
+                {
+                    "height_m": 0.34,
+                    "period_s": 5.15,
+                    "direction_deg": 130
+                }
+            ],
+            "wind_speed_kn": 4.7,
+            "wind_direction_deg": 85,
+            "water_temperature_C": 22.6
+        },
+        {
+            "timestamp": "2025-07-10T10:00Z",
+            "swells": [
+                {
+                    "height_m": 0.4,
+                    "period_s": 4.5,
+                    "direction_deg": 329
+                },
+                {
+                    "height_m": 0.32,
+                    "period_s": 5.05,
+                    "direction_deg": 134
+                }
+            ],
+            "wind_speed_kn": 3.1,
+            "wind_direction_deg": 18,
+            "water_temperature_C": 22.6
+        },
+        {
+            "timestamp": "2025-07-10T11:00Z",
+            "swells": [
+                {
+                    "height_m": 0.38,
+                    "period_s": 4.8,
+                    "direction_deg": 321
+                },
+                {
+                    "height_m": 0.3,
+                    "period_s": 5.1,
+                    "direction_deg": 137
+                }
+            ],
+            "wind_speed_kn": 8.6,
+            "wind_direction_deg": 329,
+            "water_temperature_C": 22.7
+        },
+        {
+            "timestamp": "2025-07-10T12:00Z",
+            "swells": [
+                {
+                    "height_m": 0.34,
+                    "period_s": 5.05,
+                    "direction_deg": 313
+                },
+                {
+                    "height_m": 0.28,
+                    "period_s": 5.05,
+                    "direction_deg": 141
+                }
+            ],
+            "wind_speed_kn": 11.3,
+            "wind_direction_deg": 333,
+            "water_temperature_C": 22.8
+        },
+        {
+            "timestamp": "2025-07-10T13:00Z",
+            "swells": [
+                {
+                    "height_m": 0.36,
+                    "period_s": 5.3,
+                    "direction_deg": 314
+                },
+                {
+                    "height_m": 0.24,
+                    "period_s": 4.8,
+                    "direction_deg": 146
+                }
+            ],
+            "wind_speed_kn": 11.2,
+            "wind_direction_deg": 334,
+            "water_temperature_C": 22.8
+        },
+        {
+            "timestamp": "2025-07-10T14:00Z",
+            "swells": [
+                {
+                    "height_m": 0.36,
+                    "period_s": 5.45,
+                    "direction_deg": 314
+                },
+                {
+                    "height_m": 0.18,
+                    "period_s": 4.5,
+                    "direction_deg": 152
+                }
+            ],
+            "wind_speed_kn": 11.5,
+            "wind_direction_deg": 334,
+            "water_temperature_C": 22.9
+        },
+        {
+            "timestamp": "2025-07-10T15:00Z",
+            "swells": [
+                {
+                    "height_m": 0.38,
+                    "period_s": 5.35,
+                    "direction_deg": 315
+                },
+                {
+                    "height_m": 0.14,
+                    "period_s": 4.45,
+                    "direction_deg": 157
+                }
+            ],
+            "wind_speed_kn": 11.0,
+            "wind_direction_deg": 337,
+            "water_temperature_C": 23.0
+        },
+        {
+            "timestamp": "2025-07-10T16:00Z",
+            "swells": [
+                {
+                    "height_m": 0.44,
+                    "period_s": 4.75,
+                    "direction_deg": 324
+                },
+                {
+                    "height_m": 0.18,
+                    "period_s": 4.9,
+                    "direction_deg": 148
+                }
+            ],
+            "wind_speed_kn": 9.4,
+            "wind_direction_deg": 333,
+            "water_temperature_C": 23.0
+        },
+        {
+            "timestamp": "2025-07-10T17:00Z",
+            "swells": [
+                {
+                    "height_m": 0.48,
+                    "period_s": 3.9,
+                    "direction_deg": 333
+                },
+                {
+                    "height_m": 0.24,
+                    "period_s": 5.6,
+                    "direction_deg": 139
+                }
+            ],
+            "wind_speed_kn": 7.4,
+            "wind_direction_deg": 327,
+            "water_temperature_C": 23.0
+        },
+        {
+            "timestamp": "2025-07-10T18:00Z",
+            "swells": [
+                {
+                    "height_m": 0.54,
+                    "period_s": 3.25,
+                    "direction_deg": 342
+                },
+                {
+                    "height_m": 0.28,
+                    "period_s": 6.1,
+                    "direction_deg": 130
+                }
+            ],
+            "wind_speed_kn": 5.2,
+            "wind_direction_deg": 318,
+            "water_temperature_C": 23.0
+        },
+        {
+            "timestamp": "2025-07-10T19:00Z",
+            "swells": [
+                {
+                    "height_m": 0.54,
+                    "period_s": 3.1,
+                    "direction_deg": 342
+                },
+                {
+                    "height_m": 0.28,
+                    "period_s": 6.1,
+                    "direction_deg": 132
+                }
+            ],
+            "wind_speed_kn": 3.2,
+            "wind_direction_deg": 303,
+            "water_temperature_C": 23.0
+        },
+        {
+            "timestamp": "2025-07-10T20:00Z",
+            "swells": [
+                {
+                    "height_m": 0.56,
+                    "period_s": 3.25,
+                    "direction_deg": 341
+                },
+                {
+                    "height_m": 0.28,
+                    "period_s": 5.9,
+                    "direction_deg": 133
+                }
+            ],
+            "wind_speed_kn": 1.8,
+            "wind_direction_deg": 264,
+            "water_temperature_C": 23.0
+        },
+        {
+            "timestamp": "2025-07-10T21:00Z",
+            "swells": [
+                {
+                    "height_m": 0.56,
+                    "period_s": 3.35,
+                    "direction_deg": 341
+                },
+                {
+                    "height_m": 0.28,
+                    "period_s": 5.8,
+                    "direction_deg": 135
+                }
+            ],
+            "wind_speed_kn": 5.7,
+            "wind_direction_deg": 207,
+            "water_temperature_C": 23.0
+        },
+        {
+            "timestamp": "2025-07-10T22:00Z",
+            "swells": [
+                {
+                    "height_m": 0.54,
+                    "period_s": 3.4,
+                    "direction_deg": 340
+                },
+                {
+                    "height_m": 0.28,
+                    "period_s": 5.85,
+                    "direction_deg": 133
+                }
+            ],
+            "wind_speed_kn": 5.9,
+            "wind_direction_deg": 236,
+            "water_temperature_C": 23.0
+        },
+        {
+            "timestamp": "2025-07-10T23:00Z",
+            "swells": [
+                {
+                    "height_m": 0.54,
+                    "period_s": 3.45,
+                    "direction_deg": 340
+                },
+                {
+                    "height_m": 0.26,
+                    "period_s": 5.95,
+                    "direction_deg": 132
+                }
+            ],
+            "wind_speed_kn": 6.4,
+            "wind_direction_deg": 245,
+            "water_temperature_C": 23.0
+        },
+        {
+            "timestamp": "2025-07-11T00:00Z",
+            "swells": [
+                {
+                    "height_m": 0.52,
+                    "period_s": 3.5,
+                    "direction_deg": 339
+                },
+                {
+                    "height_m": 0.26,
+                    "period_s": 6.2,
+                    "direction_deg": 130
+                }
+            ],
+            "wind_speed_kn": 5.3,
+            "wind_direction_deg": 274,
+            "water_temperature_C": 22.9
+        },
+        {
+            "timestamp": "2025-07-11T01:00Z",
+            "swells": [
+                {
+                    "height_m": 0.5,
+                    "period_s": 3.55,
+                    "direction_deg": 339
+                },
+                {
+                    "height_m": 0.24,
+                    "period_s": 6.75,
+                    "direction_deg": 128
+                }
+            ],
+            "wind_speed_kn": 5.5,
+            "wind_direction_deg": 73,
+            "water_temperature_C": 22.9
+        },
+        {
+            "timestamp": "2025-07-11T02:00Z",
+            "swells": [
+                {
+                    "height_m": 0.5,
+                    "period_s": 3.6,
+                    "direction_deg": 340
+                },
+                {
+                    "height_m": 0.22,
+                    "period_s": 7.35,
+                    "direction_deg": 127
+                }
+            ],
+            "wind_speed_kn": 5.9,
+            "wind_direction_deg": 73,
+            "water_temperature_C": 22.8
+        },
+        {
+            "timestamp": "2025-07-11T03:00Z",
+            "swells": [
+                {
+                    "height_m": 0.48,
+                    "period_s": 3.6,
+                    "direction_deg": 340
+                },
+                {
+                    "height_m": 0.2,
+                    "period_s": 7.5,
+                    "direction_deg": 125
+                }
+            ],
+            "wind_speed_kn": 6.3,
+            "wind_direction_deg": 74,
+            "water_temperature_C": 22.7
+        },
+        {
+            "timestamp": "2025-07-11T04:00Z",
+            "swells": [
+                {
+                    "height_m": 0.44,
+                    "period_s": 3.6,
+                    "direction_deg": 343
+                },
+                {
+                    "height_m": 0.2,
+                    "period_s": 6.55,
+                    "direction_deg": 133
+                }
+            ],
+            "wind_speed_kn": 6.4,
+            "wind_direction_deg": 78,
+            "water_temperature_C": 22.6
+        },
+        {
+            "timestamp": "2025-07-11T05:00Z",
+            "swells": [
+                {
+                    "height_m": 0.4,
+                    "period_s": 3.55,
+                    "direction_deg": 345
+                },
+                {
+                    "height_m": 0.22,
+                    "period_s": 5.05,
+                    "direction_deg": 141
+                }
+            ],
+            "wind_speed_kn": 6.3,
+            "wind_direction_deg": 83,
+            "water_temperature_C": 22.6
+        },
+        {
+            "timestamp": "2025-07-11T06:00Z",
+            "swells": [
+                {
+                    "height_m": 0.36,
+                    "period_s": 3.55,
+                    "direction_deg": 348
+                },
+                {
+                    "height_m": 0.22,
+                    "period_s": 4.2,
+                    "direction_deg": 149
+                }
+            ],
+            "wind_speed_kn": 6.0,
+            "wind_direction_deg": 86,
+            "water_temperature_C": 22.6
+        },
+        {
+            "timestamp": "2025-07-11T07:00Z",
+            "swells": [
+                {
+                    "height_m": 0.36,
+                    "period_s": 3.5,
+                    "direction_deg": 347
+                },
+                {
+                    "height_m": 0.26,
+                    "period_s": 4.8,
+                    "direction_deg": 145
+                }
+            ],
+            "wind_speed_kn": 5.6,
+            "wind_direction_deg": 88,
+            "water_temperature_C": 22.6
+        },
+        {
+            "timestamp": "2025-07-11T08:00Z",
+            "swells": [
+                {
+                    "height_m": 0.38,
+                    "period_s": 3.5,
+                    "direction_deg": 345
+                },
+                {
+                    "height_m": 0.3,
+                    "period_s": 6.05,
+                    "direction_deg": 140
+                }
+            ],
+            "wind_speed_kn": 5.3,
+            "wind_direction_deg": 86,
+            "water_temperature_C": 22.8
+        },
+        {
+            "timestamp": "2025-07-11T09:00Z",
+            "swells": [
+                {
+                    "height_m": 0.38,
+                    "period_s": 3.85,
+                    "direction_deg": 344
+                },
+                {
+                    "height_m": 0.34,
+                    "period_s": 6.65,
+                    "direction_deg": 136
+                }
+            ],
+            "wind_speed_kn": 4.5,
+            "wind_direction_deg": 80,
+            "water_temperature_C": 22.9
+        },
+        {
+            "timestamp": "2025-07-11T10:00Z",
+            "swells": [
+                {
+                    "height_m": 0.38,
+                    "period_s": 4.85,
+                    "direction_deg": 333
+                },
+                {
+                    "height_m": 0.34,
+                    "period_s": 5.9,
+                    "direction_deg": 148
+                }
+            ],
+            "wind_speed_kn": 3.8,
+            "wind_direction_deg": 60,
+            "water_temperature_C": 23.0
+        },
+        {
+            "timestamp": "2025-07-11T11:00Z",
+            "swells": [
+                {
+                    "height_m": 0.36,
+                    "period_s": 6.15,
+                    "direction_deg": 322
+                },
+                {
+                    "height_m": 0.32,
+                    "period_s": 4.55,
+                    "direction_deg": 159
+                }
+            ],
+            "wind_speed_kn": 3.7,
+            "wind_direction_deg": 28,
+            "water_temperature_C": 23.2
+        },
+        {
+            "timestamp": "2025-07-11T12:00Z",
+            "swells": [
+                {
+                    "height_m": 0.36,
+                    "period_s": 7.1,
+                    "direction_deg": 311
+                },
+                {
+                    "height_m": 0.32,
+                    "period_s": 3.5,
+                    "direction_deg": 171
+                }
+            ],
+            "wind_speed_kn": 4.7,
+            "wind_direction_deg": 9,
+            "water_temperature_C": 23.3
+        },
+        {
+            "timestamp": "2025-07-11T13:00Z",
+            "swells": [
+                {
+                    "height_m": 0.36,
+                    "period_s": 7.5,
+                    "direction_deg": 311
+                },
+                {
+                    "height_m": 0.32,
+                    "period_s": 3.1,
+                    "direction_deg": 172
+                }
+            ],
+            "wind_speed_kn": 5.8,
+            "wind_direction_deg": 4,
+            "water_temperature_C": 23.4
+        },
+        {
+            "timestamp": "2025-07-11T14:00Z",
+            "swells": [
+                {
+                    "height_m": 0.38,
+                    "period_s": 7.55,
+                    "direction_deg": 310
+                },
+                {
+                    "height_m": 0.3,
+                    "period_s": 3.05,
+                    "direction_deg": 172
+                }
+            ],
+            "wind_speed_kn": 6.8,
+            "wind_direction_deg": 3,
+            "water_temperature_C": 23.5
+        },
+        {
+            "timestamp": "2025-07-11T15:00Z",
+            "swells": [
+                {
+                    "height_m": 0.38,
+                    "period_s": 7.15,
+                    "direction_deg": 310
+                },
+                {
+                    "height_m": 0.3,
+                    "period_s": 3.4,
+                    "direction_deg": 173
+                }
+            ],
+            "wind_speed_kn": 7.4,
+            "wind_direction_deg": 3,
+            "water_temperature_C": 23.5
+        },
+        {
+            "timestamp": "2025-07-11T16:00Z",
+            "swells": [
+                {
+                    "height_m": 0.42,
+                    "period_s": 5.95,
+                    "direction_deg": 323
+                },
+                {
+                    "height_m": 0.32,
+                    "period_s": 4.5,
+                    "direction_deg": 159
+                }
+            ],
+            "wind_speed_kn": 7.0,
+            "wind_direction_deg": 3,
+            "water_temperature_C": 23.5
+        },
+        {
+            "timestamp": "2025-07-11T17:00Z",
+            "swells": [
+                {
+                    "height_m": 0.48,
+                    "period_s": 4.35,
+                    "direction_deg": 337
+                },
+                {
+                    "height_m": 0.36,
+                    "period_s": 6.05,
+                    "direction_deg": 144
+                }
+            ],
+            "wind_speed_kn": 6.1,
+            "wind_direction_deg": 6,
+            "water_temperature_C": 23.5
+        },
+        {
+            "timestamp": "2025-07-11T18:00Z",
+            "swells": [
+                {
+                    "height_m": 0.52,
+                    "period_s": 3.15,
+                    "direction_deg": 350
+                },
+                {
+                    "height_m": 0.38,
+                    "period_s": 7.15,
+                    "direction_deg": 130
+                }
+            ],
+            "wind_speed_kn": 5.5,
+            "wind_direction_deg": 6,
+            "water_temperature_C": 23.5
+        },
+        {
+            "timestamp": "2025-07-11T19:00Z",
+            "swells": [
+                {
+                    "height_m": 0.5,
+                    "period_s": 2.9,
+                    "direction_deg": 349
+                },
+                {
+                    "height_m": 0.38,
+                    "period_s": 7.45,
+                    "direction_deg": 130
+                }
+            ],
+            "wind_speed_kn": 5.6,
+            "wind_direction_deg": 314,
+            "water_temperature_C": 23.5
+        },
+        {
+            "timestamp": "2025-07-11T20:00Z",
+            "swells": [
+                {
+                    "height_m": 0.48,
+                    "period_s": 3.1,
+                    "direction_deg": 348
+                },
+                {
+                    "height_m": 0.38,
+                    "period_s": 7.3,
+                    "direction_deg": 130
+                }
+            ],
+            "wind_speed_kn": 8.2,
+            "wind_direction_deg": 270,
+            "water_temperature_C": 23.5
+        },
+        {
+            "timestamp": "2025-07-11T21:00Z",
+            "swells": [
+                {
+                    "height_m": 0.46,
+                    "period_s": 3.3,
+                    "direction_deg": 347
+                },
+                {
+                    "height_m": 0.38,
+                    "period_s": 7.15,
+                    "direction_deg": 130
+                }
+            ],
+            "wind_speed_kn": 11.4,
+            "wind_direction_deg": 256,
+            "water_temperature_C": 23.4
+        },
+        {
+            "timestamp": "2025-07-11T22:00Z",
+            "swells": [
+                {
+                    "height_m": 0.44,
+                    "period_s": 3.3,
+                    "direction_deg": 345
+                },
+                {
+                    "height_m": 0.38,
+                    "period_s": 7.15,
+                    "direction_deg": 131
+                }
+            ],
+            "wind_speed_kn": 12.5,
+            "wind_direction_deg": 254,
+            "water_temperature_C": 23.2
+        },
+        {
+            "timestamp": "2025-07-11T23:00Z",
+            "swells": [
+                {
+                    "height_m": 0.44,
+                    "period_s": 3.3,
+                    "direction_deg": 344
+                },
+                {
+                    "height_m": 0.38,
+                    "period_s": 7.1,
+                    "direction_deg": 133
+                }
+            ],
+            "wind_speed_kn": 12.7,
+            "wind_direction_deg": 255,
+            "water_temperature_C": 23.1
+        },
+        {
+            "timestamp": "2025-07-12T00:00Z",
+            "swells": [
+                {
+                    "height_m": 0.42,
+                    "period_s": 3.65,
+                    "direction_deg": 342
+                },
+                {
+                    "height_m": 0.38,
+                    "period_s": 6.75,
+                    "direction_deg": 134
+                }
+            ],
+            "wind_speed_kn": 12.7,
+            "wind_direction_deg": 258,
+            "water_temperature_C": 23.0
+        },
+        {
+            "timestamp": "2025-07-12T01:00Z",
+            "swells": [
+                {
+                    "height_m": 0.4,
+                    "period_s": 4.85,
+                    "direction_deg": 331
+                },
+                {
+                    "height_m": 0.36,
+                    "period_s": 5.55,
+                    "direction_deg": 145
+                }
+            ],
+            "wind_speed_kn": 13.7,
+            "wind_direction_deg": 263,
+            "water_temperature_C": 23.0
+        },
+        {
+            "timestamp": "2025-07-12T02:00Z",
+            "swells": [
+                {
+                    "height_m": 0.4,
+                    "period_s": 6.45,
+                    "direction_deg": 320
+                },
+                {
+                    "height_m": 0.36,
+                    "period_s": 4.05,
+                    "direction_deg": 157
+                }
+            ],
+            "wind_speed_kn": 15.0,
+            "wind_direction_deg": 270,
+            "water_temperature_C": 22.9
+        },
+        {
+            "timestamp": "2025-07-12T03:00Z",
+            "swells": [
+                {
+                    "height_m": 0.38,
+                    "period_s": 7.25,
+                    "direction_deg": 309
+                },
+                {
+                    "height_m": 0.34,
+                    "period_s": 3.3,
+                    "direction_deg": 168
+                }
+            ],
+            "wind_speed_kn": 15.4,
+            "wind_direction_deg": 275,
+            "water_temperature_C": 22.8
+        },
+        {
+            "timestamp": "2025-07-12T04:00Z",
+            "swells": [
+                {
+                    "height_m": 0.38,
+                    "period_s": 6.6,
+                    "direction_deg": 320
+                },
+                {
+                    "height_m": 0.36,
+                    "period_s": 4.15,
+                    "direction_deg": 157
+                }
+            ],
+            "wind_speed_kn": 14.1,
+            "wind_direction_deg": 281,
+            "water_temperature_C": 22.8
+        },
+        {
+            "timestamp": "2025-07-12T05:00Z",
+            "swells": [
+                {
+                    "height_m": 0.4,
+                    "period_s": 5.15,
+                    "direction_deg": 331
+                },
+                {
+                    "height_m": 0.36,
+                    "period_s": 5.75,
+                    "direction_deg": 145
+                }
+            ],
+            "wind_speed_kn": 11.8,
+            "wind_direction_deg": 290,
+            "water_temperature_C": 22.7
+        },
+        {
+            "timestamp": "2025-07-12T06:00Z",
+            "swells": [
+                {
+                    "height_m": 0.4,
+                    "period_s": 4.1,
+                    "direction_deg": 342
+                },
+                {
+                    "height_m": 0.38,
+                    "period_s": 6.95,
+                    "direction_deg": 134
+                }
+            ],
+            "wind_speed_kn": 9.6,
+            "wind_direction_deg": 299,
+            "water_temperature_C": 22.7
+        },
+        {
+            "timestamp": "2025-07-12T07:00Z",
+            "swells": [
+                {
+                    "height_m": 0.4,
+                    "period_s": 3.75,
+                    "direction_deg": 343
+                },
+                {
+                    "height_m": 0.38,
+                    "period_s": 7.3,
+                    "direction_deg": 134
+                }
+            ],
+            "wind_speed_kn": 7.2,
+            "wind_direction_deg": 303,
+            "water_temperature_C": 22.8
+        },
+        {
+            "timestamp": "2025-07-12T08:00Z",
+            "swells": [
+                {
+                    "height_m": 0.4,
+                    "period_s": 3.75,
+                    "direction_deg": 343
+                },
+                {
+                    "height_m": 0.38,
+                    "period_s": 7.3,
+                    "direction_deg": 133
+                }
+            ],
+            "wind_speed_kn": 4.3,
+            "wind_direction_deg": 300,
+            "water_temperature_C": 22.8
+        },
+        {
+            "timestamp": "2025-07-12T09:00Z",
+            "swells": [
+                {
+                    "height_m": 0.4,
+                    "period_s": 4.15,
+                    "direction_deg": 344
+                },
+                {
+                    "height_m": 0.38,
+                    "period_s": 6.9,
+                    "direction_deg": 133
+                }
+            ],
+            "wind_speed_kn": 2.5,
+            "wind_direction_deg": 302,
+            "water_temperature_C": 22.9
+        },
+        {
+            "timestamp": "2025-07-12T10:00Z",
+            "swells": [
+                {
+                    "height_m": 0.4,
+                    "period_s": 5.15,
+                    "direction_deg": 332
+                },
+                {
+                    "height_m": 0.36,
+                    "period_s": 5.95,
+                    "direction_deg": 146
+                }
+            ],
+            "wind_speed_kn": 2.9,
+            "wind_direction_deg": 318,
+            "water_temperature_C": 23.0
+        },
+        {
+            "timestamp": "2025-07-12T11:00Z",
+            "swells": [
+                {
+                    "height_m": 0.4,
+                    "period_s": 6.45,
+                    "direction_deg": 320
+                },
+                {
+                    "height_m": 0.36,
+                    "period_s": 4.65,
+                    "direction_deg": 158
+                }
+            ],
+            "wind_speed_kn": 4.3,
+            "wind_direction_deg": 324,
+            "water_temperature_C": 23.0
+        },
+        {
+            "timestamp": "2025-07-12T12:00Z",
+            "swells": [
+                {
+                    "height_m": 0.4,
+                    "period_s": 7.45,
+                    "direction_deg": 308
+                },
+                {
+                    "height_m": 0.34,
+                    "period_s": 3.7,
+                    "direction_deg": 171
+                }
+            ],
+            "wind_speed_kn": 5.4,
+            "wind_direction_deg": 325,
+            "water_temperature_C": 23.1
+        },
+        {
+            "timestamp": "2025-07-12T13:00Z",
+            "swells": [
+                {
+                    "height_m": 0.4,
+                    "period_s": 7.7,
+                    "direction_deg": 308
+                },
+                {
+                    "height_m": 0.32,
+                    "period_s": 3.4,
+                    "direction_deg": 172
+                }
+            ],
+            "wind_speed_kn": 5.3,
+            "wind_direction_deg": 321,
+            "water_temperature_C": 23.2
+        },
+        {
+            "timestamp": "2025-07-12T14:00Z",
+            "swells": [
+                {
+                    "height_m": 0.4,
+                    "period_s": 7.55,
+                    "direction_deg": 308
+                },
+                {
+                    "height_m": 0.3,
+                    "period_s": 3.5,
+                    "direction_deg": 172
+                }
+            ],
+            "wind_speed_kn": 4.7,
+            "wind_direction_deg": 312,
+            "water_temperature_C": 23.4
+        },
+        {
+            "timestamp": "2025-07-12T15:00Z",
+            "swells": [
+                {
+                    "height_m": 0.4,
+                    "period_s": 7.45,
+                    "direction_deg": 308
+                },
+                {
+                    "height_m": 0.28,
+                    "period_s": 3.55,
+                    "direction_deg": 173
+                }
+            ],
+            "wind_speed_kn": 4.6,
+            "wind_direction_deg": 306,
+            "water_temperature_C": 23.5
+        },
+        {
+            "timestamp": "2025-07-12T16:00Z",
+            "swells": [
+                {
+                    "height_m": 0.4,
+                    "period_s": 7.45,
+                    "direction_deg": 308
+                },
+                {
+                    "height_m": 0.26,
+                    "period_s": 3.5,
+                    "direction_deg": 173
+                }
+            ],
+            "wind_speed_kn": 5.7,
+            "wind_direction_deg": 311,
+            "water_temperature_C": 23.6
+        },
+        {
+            "timestamp": "2025-07-12T17:00Z",
+            "swells": [
+                {
+                    "height_m": 0.42,
+                    "period_s": 7.45,
+                    "direction_deg": 307
+                },
+                {
+                    "height_m": 0.24,
+                    "period_s": 3.5,
+                    "direction_deg": 174
+                }
+            ],
+            "wind_speed_kn": 7.0,
+            "wind_direction_deg": 316,
+            "water_temperature_C": 23.7
+        },
+        {
+            "timestamp": "2025-07-12T18:00Z",
+            "swells": [
+                {
+                    "height_m": 0.42,
+                    "period_s": 7.45,
+                    "direction_deg": 307
+                },
+                {
+                    "height_m": 0.22,
+                    "period_s": 3.45,
+                    "direction_deg": 174
+                }
+            ],
+            "wind_speed_kn": 7.8,
+            "wind_direction_deg": 316,
+            "water_temperature_C": 23.8
+        },
+        {
+            "timestamp": "2025-07-12T19:00Z",
+            "swells": [
+                {
+                    "height_m": 0.42,
+                    "period_s": 7.45,
+                    "direction_deg": 307
+                },
+                {
+                    "height_m": 0.2,
+                    "period_s": 3.4,
+                    "direction_deg": 174
+                }
+            ],
+            "wind_speed_kn": 7.4,
+            "wind_direction_deg": 305,
+            "water_temperature_C": 23.8
+        },
+        {
+            "timestamp": "2025-07-12T20:00Z",
+            "swells": [
+                {
+                    "height_m": 0.42,
+                    "period_s": 7.45,
+                    "direction_deg": 307
+                },
+                {
+                    "height_m": 0.2,
+                    "period_s": 3.4,
+                    "direction_deg": 174
+                }
+            ],
+            "wind_speed_kn": 6.9,
+            "wind_direction_deg": 288,
+            "water_temperature_C": 23.7
+        },
+        {
+            "timestamp": "2025-07-12T21:00Z",
+            "swells": [
+                {
+                    "height_m": 0.42,
+                    "period_s": 7.45,
+                    "direction_deg": 307
+                },
+                {
+                    "height_m": 0.18,
+                    "period_s": 3.4,
+                    "direction_deg": 174
+                }
+            ],
+            "wind_speed_kn": 7.4,
+            "wind_direction_deg": 275,
+            "water_temperature_C": 23.6
+        },
+        {
+            "timestamp": "2025-07-12T22:00Z",
+            "swells": [
+                {
+                    "height_m": 0.42,
+                    "period_s": 7.45,
+                    "direction_deg": 307
+                },
+                {
+                    "height_m": 0.18,
+                    "period_s": 3.5,
+                    "direction_deg": 174
+                }
+            ],
+            "wind_speed_kn": 8.2,
+            "wind_direction_deg": 271,
+            "water_temperature_C": 23.5
+        },
+        {
+            "timestamp": "2025-07-12T23:00Z",
+            "swells": [
+                {
+                    "height_m": 0.42,
+                    "period_s": 7.45,
+                    "direction_deg": 307
+                },
+                {
+                    "height_m": 0.18,
+                    "period_s": 3.65,
+                    "direction_deg": 174
+                }
+            ],
+            "wind_speed_kn": 9.2,
+            "wind_direction_deg": 274,
+            "water_temperature_C": 23.4
+        }
+    ]
+}
